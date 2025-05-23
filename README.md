@@ -13,6 +13,8 @@ Lead Business Analyst / Billing Workstream 리드
 - Excel
 - PowerPoint
 - Figma
+- Confluence
+- JIRA
 
 ## 📌 주요 업무
 - 약 5 million pounds 규모의 프로젝트 계획 및 예산(Resource Planning 포함) 기획
